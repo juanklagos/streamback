@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"total"
+			],
+			[
+				"wall",
+				"wallet_amount"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"Gene",
+				"Genre"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"hi",
+				"history_data"
+			],
+			[
+				"use",
+				"user_details"
+			],
+			[
+				"refe",
+				"referral_code"
+			],
+			[
+				"Comm",
+				"commit"
+			],
+			[
+				"is_a",
+				"is_activated"
+			],
+			[
+				"paymn",
+				"payment_mode"
+			],
+			[
+				"push",
+				"push_status"
+			],
+			[
+				"wat",
+				"watch_count_revenue"
+			],
+			[
+				"common",
+				"common_date"
+			],
+			[
+				"current",
+				"current_date"
+			],
+			[
+				"lo",
+				"load_category"
+			],
+			[
+				"ava",
+				"Available"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"user_pa",
+				"user_payments"
+			],
+			[
+				"grou",
+				"groupBy"
+			],
+			[
+				"subsc",
+				"subscription_details"
+			],
+			[
+				"Fo",
+				"Found"
+			],
+			[
+				"pub",
+				"publish_time"
+			],
+			[
+				"tril",
+				"trailer_duration"
+			],
+			[
+				"met",
+				"meta_author"
+			],
+			[
+				"site",
+				"site_name"
+			],
+			[
+				"tem",
+				"template_type"
+			],
+			[
+				"curre",
+				"currency"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"tur",
+				"true"
+			],
+			[
+				"reas",
+				"reason"
+			],
+			[
+				"qu",
+				"queryvalue"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"fundin",
+				"funding_instruments"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ex",
+				"ex"
+			],
+			[
+				"Paypa",
+				"PaypalController"
+			],
+			[
+				"Ap",
+				"Api"
+			],
+			[
+				"_",
+				"_api_context"
+			],
+			[
+				"po",
+				"POST"
+			],
+			[
+				"shi",
+				"ShippingAddress"
+			],
+			[
+				"appr",
+				"approvalUrl"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pen",
+				"pending_payments"
+			],
+			[
+				"cha",
+				"charge"
+			],
+			[
+				"card",
+				"card_no"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"last",
+				"last4"
+			],
+			[
+				"pa",
+				"payment"
+			],
+			[
+				"dA",
+				"data"
+			],
+			[
+				"coupo",
+				"coupon_code"
+			],
+			[
+				"Pay",
+				"PayStackController"
+			],
+			[
+				"su",
+				"subscriptions"
+			],
+			[
+				"user-",
+				"user_payment-"
+			],
+			[
+				"auth",
+				"authorization"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pays",
+				"paystack"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"download_",
+				"download_deleted"
+			],
+			[
+				"do",
+				"download"
+			],
+			[
+				"pay",
+				"paystack_secret_key"
+			],
+			[
+				"Set",
+				"Settings"
+			],
+			[
+				"User",
+				"UserApiController"
+			],
+			[
+				"admin_",
+				"admin_videos"
+			],
+			[
+				"admin_video",
+				"admin_video_id"
+			],
+			[
+				"payment",
+				"payment_mode"
+			],
+			[
+				"PAYS",
+				"PAYSTACK"
+			],
+			[
+				"video",
+				"video_id"
+			],
+			[
+				"cou",
+				"coupon_code"
+			],
+			[
+				"DEF",
+				"DEFAULT_FALSE"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"tran",
+				"tranx"
+			],
+			[
+				"subs",
+				"subscription_id"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"typ",
+				"type_of_payment"
+			],
+			[
+				"Sub",
+				"subscription"
+			],
+			[
+				"req",
+				"request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 56395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/AdminController.php",
+			"settings":
+			{
+				"buffer_size": 162472,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/NewAdminController.php",
+			"settings":
+			{
+				"buffer_size": 215796,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/storage/logs/laravel.log",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Constants/constants.php",
+			"settings":
+			{
+				"buffer_size": 12296,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Helpers/viewHelper.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/.env",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/NewAdminController.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/resources/views/user/videos/create.blade.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Repositories/CommonRepository.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/database/seeds/ResolutionAddedSeeder.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Jobs/CompressVideo.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/AdminController.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/database/seeds/DatabaseSeeder.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/database/seeds/SettingsTableSeeder.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/routes.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/UserController.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/UserApiController.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/resources/views/user/channels/index.blade.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/resources/views/user/channels/list.blade.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/Auth/AuthController.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Constants/user-constants.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Helpers/VideoHelper.php",
+		"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Constants/constants.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Repositories/CustomWalletRepository.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/WalletApiController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Repositories/PaymentRepository.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/storage/logs/laravel.log",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/V4UserApiController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Helpers/Helper.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2020_02_21_071513_wallet_amount_to_payment_tables.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2020_02_17_161716_v6_0_referral_related_migrations.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/ApplicationController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/.env",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/routes.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/settings/control.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/FfmpegSeeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Constants/constants.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/settings/settings.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Helpers/viewHelper.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/AdminController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/UserApiController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/NewAdminController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/NewModeratorController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/ModeratorController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/users/wallet.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/videos/video-upload.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/lang/en/messages.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2020_02_20_135523_v6_0_wallet_related_migrations.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2019_05_17_104941_create_custom_wallet_vouchers_table.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2019_05_17_104930_create_custom_wallet_payments_table.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2019_05_17_104917_create_custom_wallets_table.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2019_05_17_111341_create_custom_wallet_histories_table.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/payments/revenue_dashboard.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/CustomWalletAdminController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/UserController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/User.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/CustomAdminController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/PaypalController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/CustomWallet.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/WalletAdminController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/artisan",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/backups/AdminController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/AdminExportController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/LanguageController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Repositories/AdminRepository.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2020_02_20_054907_v6_0_wallet_amount_to_payment_tables.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2018_06_20_112835_add_coupon_status_fields_in_user_payments.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/Controller.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/layouts/admin/nav.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/users/index.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConstants.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/CustomWalletHistory.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Repositories/VideoRepository.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/composer.json",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/UserReferral.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/layouts/admin.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/V6Seeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/videos/index.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/DatabaseSeeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/SampleController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/payments/user_payments.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/users/users.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/public/admin-css/plugins/datatables/extensions/ColReorder/examples/server_side.html",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/routes-backup.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/ReferralSeeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2017_05_24_151437_create_redeems_table.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2020_02_17_083917_create_referrals_table.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/UserSeeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/public/assets/js/upload-video.js",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/emails/welcome.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/Auth/ModeratorAuthController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/AdminVideo.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Helpers/VideoHelper.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Jobs/StreamviewCompressVideo.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/subscriptions/view.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Repositories/PushNotificationRepository.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/users/wishlist.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/migrations/2019_01_19_071509_version_4_tables_and_changes.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/SettingsTableSeeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/accounts/profile.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/moderator/account/profile.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/moderators/view.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/storage/framework/views/b289fa9c8c3e0a6c7a32e7026fc23a1b27a47e20.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/moderator/payments/ppv_payments.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/database/seeds/RedeempaypalSeeder.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/moderators/payout.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Controllers/RedeemPaymentController.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/moderator/dashboard/dashboard.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/dashboard/dashboard.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/moderator/payments/revenues.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/moderator/payments/redeems.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Jobs/SaveNotification.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Notification.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Jobs/PushNotification.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Jobs/SendVideoMail.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Http/Middleware/UserApiValidation.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/subscriptions/user_plans.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/payments/video-payments.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/moderators/redeems.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/moderators/index.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/coupons/index.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin-old/subscriptions/user_plans.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin-old/moderators/moderators.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches/ErrorMessageProvider.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/videos/view.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/Jobs/SendMailCamp.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/mail_camp.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/categories/view.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/resources/views/admin/categories/index.blade.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/gcm/GCM_1.php",
+		"/home/codegama/bhawya/streamhash/streamview/streamview-backend-base/app/ios/apns.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen",
+			"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/database/seeds",
+			"/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CREATE_CHANNEL_BY_USER_ENABLED",
+			"channels/create",
+			"VIDEO_RESOLUTIONS",
+			"constantVideoFrames",
+			"$FFmpeg",
+			"ff",
+			"VIDEO_RESOLUTIONS",
+			"getVideoResolutions",
+			"VIDEO_RESOLUTIONS",
+			"res",
+			"reso",
+			"resol",
+			"resolu",
+			"constantVideoFrames",
+			"VIDEO_RESOLUTIONS",
+			"manual_finish",
+			"VideoFile",
+			"captain",
+			"is_subscription",
+			"is_default_paid_user",
+			"user",
+			"paid",
+			"paid_us",
+			"admin-control",
+			"user.video_save",
+			"video_save",
+			"video-upload",
+			"video_upload",
+			"edit",
+			"channel/{",
+			"channel/",
+			"channel",
+			"uth::user()->user_type",
+			"Auth::user()->user_type",
+			"create_channel",
+			"user_type_check",
+			"NON_SUBSCRIBED_USER",
+			"user_type",
+			"mychannels/list"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9968,
+								9968
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5955.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/AdminController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 162472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23439,
+								23439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17830.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Http/Controllers/NewAdminController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 215796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32337,
+								32337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22834.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/storage/logs/laravel.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/codegama/bhawya/streamhash-clients/tubenow/tubenow-backend-stephen/app/Constants/constants.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2409,
+								2409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1642.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Stephen-tubenow.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lara",
+				"storage/logs/laravel.log"
+			],
+			[
+				"cons",
+				"app/Constants/constants.php"
+			],
+			[
+				"rou",
+				"app/Http/routes.php"
+			],
+			[
+				"ommonre",
+				"app/Repositories/CommonRepository.php"
+			],
+			[
+				"view",
+				"app/Helpers/viewHelper.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"adminc",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"userc",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"cus",
+				"streamview-backend-base/app/Repositories/CustomWalletRepository.php"
+			],
+			[
+				"ADMINCO",
+				"streamview-backend-base/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"routes",
+				"streamview-backend-base/app/Http/routes.php"
+			],
+			[
+				"usera",
+				"streamview-backend-base/app/Http/Controllers/UserApiController.php"
+			],
+			[
+				"v4us",
+				"streamview-backend-base/app/Http/Controllers/V4UserApiController.php"
+			],
+			[
+				"route",
+				"streamview-backend-base/app/Http/routes.php"
+			],
+			[
+				".env",
+				"streamview-backend-base/.env"
+			],
+			[
+				"newmode",
+				"streamview-backend-base/app/Http/Controllers/NewModeratorController.php"
+			],
+			[
+				"modera",
+				"streamview-backend-base/app/Http/Controllers/ModeratorController.php"
+			],
+			[
+				"walle",
+				"streamview-backend-base/app/Http/Controllers/WalletApiController.php"
+			],
+			[
+				"mess",
+				"streamview-backend-base/resources/lang/en/messages.php"
+			],
+			[
+				"payme",
+				"streamview-backend-base/app/Repositories/PaymentRepository.php"
+			],
+			[
+				"new",
+				"streamview-backend-base/app/Http/Controllers/NewAdminController.php"
+			],
+			[
+				"wallet",
+				"streamview-backend-base/app/Http/Controllers/WalletAdminController.php"
+			],
+			[
+				"messa",
+				"streamview-backend-base/resources/lang/en/messages.php"
+			],
+			[
+				"paypalcon",
+				"streamview-backend-base/app/Http/Controllers/PaypalController.php"
+			],
+			[
+				"newa",
+				"streamview-backend-base/app/Http/Controllers/NewAdminController.php"
+			],
+			[
+				"adminconte",
+				"streamview-backend-base/app/Http/Controllers/backups/AdminController.php"
+			],
+			[
+				"admin",
+				"streamview-backend-base/app/Http/Controllers/NewAdminController.php"
+			],
+			[
+				"custom",
+				"streamview-backend-base/app/Http/Controllers/CustomAdminController.php"
+			],
+			[
+				"ro",
+				"streamview-backend-base/app/Http/routes.php"
+			],
+			[
+				"controll",
+				"streamview-backend-base/app/Http/Controllers/Controller.php"
+			],
+			[
+				"adminco",
+				"streamview-backend-base/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"pay",
+				"streamview-backend-base/app/Repositories/PaymentRepository.php"
+			],
+			[
+				"const",
+				"streamview-backend-base/app/Constants/constants.php"
+			],
+			[
+				"help",
+				"streamview-backend-base/app/Helpers/Helper.php"
+			],
+			[
+				"payment",
+				"streamview-backend-base/app/Repositories/PaymentRepository.php"
+			],
+			[
+				"CustomWalletRepository",
+				"streamview-backend-base/app/Repositories/CustomWalletRepository.php"
+			],
+			[
+				"wa",
+				"streamview-backend-base/app/Http/Controllers/WalletApiController.php"
+			],
+			[
+				"walleta",
+				"streamview-backend-base/app/Http/Controllers/WalletAdminController.php"
+			],
+			[
+				"paypalcontr",
+				"streamview-backend-base/app/Http/Controllers/PaypalController.php"
+			],
+			[
+				"paypalco",
+				"streamview-backend-base/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConstants.php"
+			],
+			[
+				"customadmi",
+				"streamview-backend-base/app/Http/Controllers/CustomAdminController.php"
+			],
+			[
+				"admn",
+				"streamview-backend-base/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"v4",
+				"streamview-backend-base/app/Http/Controllers/V4UserApiController.php"
+			],
+			[
+				"appl",
+				"streamview-backend-base/app/Http/Controllers/ApplicationController.php"
+			],
+			[
+				"com",
+				"streamview-backend-base/composer.json"
+			],
+			[
+				"samp",
+				"streamview-backend-base/app/Http/Controllers/SampleController.php"
+			],
+			[
+				"admncon",
+				"streamview-backend-base/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"compo",
+				"streamview-backend-base/composer.json"
+			],
+			[
+				"moderatora",
+				"streamview-backend-base/app/Http/Controllers/Auth/ModeratorAuthController.php"
+			],
+			[
+				"user",
+				"streamview-backend-base/app/Http/Controllers/UserApiController.php"
+			],
+			[
+				"larave",
+				"streamview-backend-base/storage/logs/laravel.log"
+			],
+			[
+				"hel",
+				"streamview-backend-base/app/Helpers/Helper.php"
+			],
+			[
+				"he",
+				"streamview-backend-base/app/Helpers/viewHelper.php"
+			],
+			[
+				"consta",
+				"streamview-backend-base/app/Constants/constants.php"
+			],
+			[
+				"applica",
+				"streamview-backend-base/app/Http/Controllers/ApplicationController.php"
+			],
+			[
+				"userapicon",
+				"streamview-backend-base/app/Http/Controllers/V4UserApiController.php"
+			],
+			[
+				"user.p",
+				"streamview-backend-base/app/User.php"
+			],
+			[
+				"meessa",
+				"streamview-backend-base/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches/ErrorMessageProvider.php"
+			],
+			[
+				"UserApiVal",
+				"streamview-backend-base/app/Http/Middleware/UserApiValidation.php"
+			],
+			[
+				"appli",
+				"streamview-backend-base/app/Http/Controllers/ApplicationController.php"
+			],
+			[
+				"upload",
+				"streamview-backend-base/public/assets/js/upload-video.js"
+			],
+			[
+				"lar",
+				"streamview-backend-base/storage/logs/laravel.log"
+			],
+			[
+				"admincon",
+				"streamview-backend-base/app/Http/Controllers/AdminController.php"
+			],
+			[
+				"c",
+				"streamview-backend-base/composer.json"
+			],
+			[
+				"fcm",
+				"streamview-backend-base/config/fcm.php"
+			],
+			[
+				"usercon",
+				"streamview-backend-base/app/Http/Controllers/UserController.php"
+			],
+			[
+				"newad",
+				"streamview-backend-base/app/Http/Controllers/NewAdminController.php"
+			],
+			[
+				".en",
+				"streamview-backend-base/.env"
+			],
+			[
+				"paypa",
+				"vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalConstants.php"
+			],
+			[
+				"app.php",
+				"bootstrap/app.php"
+			],
+			[
+				"post",
+				"app/Http/Controllers/PostController.php"
+			],
+			[
+				"checkvi",
+				"app/Http/Middleware/CheckUserVerification.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "strema",
+		"selected_items":
+		[
+			[
+				"strema",
+				"~/bhawya/sublime/streamview.sublime-project"
+			],
+			[
+				"stre",
+				"~/bhawya/sublime/streamview.sublime-project"
+			],
+			[
+				"strea",
+				"~/bhawya/sublime/streamview.sublime-project"
+			],
+			[
+				"tube",
+				"~/bhawya/sublime/tubenow-clients.sublime-project"
+			],
+			[
+				"par",
+				"~/bhawya/sublime/park.sublime-workspace"
+			],
+			[
+				"genta",
+				"~/bhawya/sublime/gentack.sublime-project"
+			],
+			[
+				"park",
+				"~/bhawya/sublime/park.sublime-workspace"
+			],
+			[
+				"",
+				"~/bhawya/sublime/gentack.sublime-project"
+			],
+			[
+				"room",
+				"~/bhawya/sublime/room.sublime-project"
+			],
+			[
+				"co",
+				"~/bhawya/sublime/cowork.sublime-project"
+			],
+			[
+				"tunes",
+				"~/Documents/Sublime Projects/StreamTunes.sublime-workspace"
+			],
+			[
+				"gent",
+				"~/bhawya/sublime/gentask.sublime-project"
+			],
+			[
+				"st",
+				"~/bhawya/sublime/streamnow.sublime-workspace"
+			],
+			[
+				"tuben",
+				"~/bhawya/sublime/tubenow.sublime-workspace"
+			],
+			[
+				"stream",
+				"~/Documents/Sublime Projects/Streamtube.sublime-workspace"
+			],
+			[
+				"cow",
+				"~/bhawya/sublime/cowork.sublime-project"
+			],
+			[
+				"streamtube",
+				"~/bhawya/sublime/streamtube.sublime-workspace"
+			],
+			[
+				"gentack",
+				"~/bhawya/sublime/gentack-clients.sublime-workspace"
+			],
+			[
+				"mi",
+				"~/bhawya/sublime/streaview-miquel.sublime-workspace"
+			],
+			[
+				"storage",
+				"~/bhawya/sublime/storage.sublime-workspace"
+			],
+			[
+				"foh",
+				"~/bhawya/sublime/foh.sublime-workspace"
+			],
+			[
+				"nik",
+				"~/bhawya/sublime/nikola.sublime-workspace"
+			],
+			[
+				"streamtu",
+				"~/bhawya/sublime/streamtube.sublime-workspace"
+			],
+			[
+				"stor",
+				"~/bhawya/sublime/storage.sublime-workspace"
+			],
+			[
+				"streamt",
+				"~/bhawya/sublime/streamtube.sublime-workspace"
+			],
+			[
+				"str",
+				"~/bhawya/sublime/streamtube.sublime-workspace"
+			],
+			[
+				"tub",
+				"~/bhawya/sublime/tubenow.sublime-workspace"
+			],
+			[
+				"le",
+				"~/bhawya/sublime/learning.sublime-project"
+			],
+			[
+				"lea",
+				"~/bhawya/sublime/learning.sublime-project"
+			],
+			[
+				"streamtub",
+				"~/Documents/Sublime Projects/Streamtube.sublime-project"
+			],
+			[
+				"streamno",
+				"~/Documents/Sublime Projects/StreamNow - base.sublime-project"
+			],
+			[
+				"streamnow",
+				"~/Documents/Sublime Projects/StreamNow - base.sublime-project"
+			],
+			[
+				"soum",
+				"~/Documents/Sublime Projects/Streamnow - soumya.sublime-project"
+			],
+			[
+				"derek",
+				"~/Documents/Sublime Projects/Streamnow - Derek.sublime-project"
+			],
+			[
+				"dere",
+				"~/Documents/Sublime Projects/Streamnow - Derek.sublime-project"
+			],
+			[
+				"streamvew",
+				"~/Documents/Sublime Projects/StreamView - Base.sublime-project"
+			],
+			[
+				"sre",
+				"~/Documents/Sublime Projects/StreamNow - base.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
